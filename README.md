@@ -1,2 +1,2 @@
 # personal-website
-boostrap prac
+bootstrap prac
